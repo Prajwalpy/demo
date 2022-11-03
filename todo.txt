@@ -3,3 +3,6 @@
 3.Code
 4.Test
 5.Sleep
+6.Bath
+7.Drive
+8.Lunch
